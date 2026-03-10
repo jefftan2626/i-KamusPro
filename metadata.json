@@ -1,5 +1,22 @@
-{
-  "name": "E-Kamus Pro: Malaysia Trilingual Dictionary",
-  "description": "A professional trilingual dictionary (Malay, Chinese, English) following Malaysian linguistic standards (DBP), featuring meanings, synonyms, antonyms, and example sentences.",
-  "requestFramePermissions": []
-}
+[
+  { "ms": "saya", "en": "I / me", "zh": "我", "cat": "Pronoun", "def": "Kata ganti diri pertama." },
+  { "ms": "awak", "en": "you", "zh": "你", "cat": "Pronoun", "def": "Kata ganti diri kedua." },
+  { "ms": "dia", "en": "he / she", "zh": "他/她", "cat": "Pronoun", "def": "Kata ganti diri ketiga." },
+  { "ms": "kami", "en": "we (excluding listener)", "zh": "我们", "cat": "Pronoun", "def": "Kata ganti diri pertama jamak." },
+  { "ms": "kita", "en": "we (including listener)", "zh": "我们", "cat": "Pronoun", "def": "Kata ganti diri pertama jamak." },
+  { "ms": "mereka", "en": "they", "zh": "他们", "cat": "Pronoun", "def": "Kata ganti diri ketiga jamak." },
+  { "ms": "ini", "en": "this", "zh": "这", "cat": "Determiner", "def": "Menunjukkan sesuatu yang dekat." },
+  { "ms": "itu", "en": "that", "zh": "那", "cat": "Determiner", "def": "Menunjukkan sesuatu yang jauh." },
+  { "ms": "dan", "en": "and", "zh": "和", "cat": "Conjunction", "def": "Kata hubung untuk menggabungkan." },
+  { "ms": "atau", "en": "or", "zh": "atau", "cat": "Conjunction", "def": "Kata hubung untuk pilihan." },
+  { "ms": "makan", "en": "eat", "zh": "吃", "cat": "Verb", "def": "Memasukkan makanan ke dalam mulut." },
+  { "ms": "minum", "en": "drink", "zh": "喝", "cat": "Verb", "def": "Menelan cecair." },
+  { "ms": "pergi", "en": "go", "zh": "去", "cat": "Verb", "def": "Bergerak ke suatu tempat." },
+  { "ms": "datang", "en": "come", "zh": "来", "cat": "Verb", "def": "Sampai ke suatu tempat." },
+  { "ms": "tidur", "en": "sleep", "zh": "睡觉", "cat": "Verb", "def": "Berehat dengan melelapkan mata." },
+  { "ms": "baca", "en": "read", "zh": "读", "cat": "Verb", "def": "Melihat dan memahami tulisan." },
+  { "ms": "tulis", "en": "write", "zh": "写", "cat": "Verb", "def": "Mencatat huruf atau angka." },
+  { "ms": "beli", "en": "buy", "zh": "买", "cat": "Verb", "def": "Mendapat sesuatu dengan wang." },
+  { "ms": "jual", "en": "sell", "zh": "卖", "cat": "Verb", "def": "Memberi sesuatu untuk wang." },
+  { "ms": "kerja", "en": "work", "zh": "工作", "cat": "Verb", "def": "Melakukan tugas atau usaha." }
+]
